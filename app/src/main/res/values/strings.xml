@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Budget Manager</string>
+    <string name="withinlimit">Your current month expense is within limit.</string>
+    <string name="excedlimit">Your current month expense has exceeded the limit!</string>
+</resources>
